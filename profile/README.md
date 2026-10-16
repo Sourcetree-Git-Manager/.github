@@ -31,7 +31,7 @@ Use Sourcetree to clone repositories, stage selected changes, compare file revis
 
 ## Exploring Repository History
 
-![Sourcetree Commit Graph Interface](https://www.git-tower.com/blog/media/pages/posts/best-git-client/ff6d9de9fe-1791479003/fork.png)
+![Sourcetree Commit Graph Interface](https://wac-cdn.atlassian.com/dam/jcr:580c367b-c240-453d-aa18-c7ced44324f9/hero-mac-screenshot.png?cdnVersion=3035)
 
 The commit graph presents repository history as a visual sequence of changes. Select a commit to inspect its details, follow branch development, and understand how separate lines of work connect.
 
